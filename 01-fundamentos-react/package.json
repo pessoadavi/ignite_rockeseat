@@ -1,0 +1,20 @@
+{
+  "name": "01-fundamentos-react",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "date-fns": "^2.30.0",
+    "phosphor-react": "^1.4.1",
+    "preact": "^10.13.1"
+  },
+  "devDependencies": {
+    "@preact/preset-vite": "^2.5.0",
+    "vite": "^4.3.0"
+  }
+}
